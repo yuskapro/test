@@ -1,0 +1,35 @@
+.container-2{
+    width: 1500px;
+    height: 6   10px;
+    background-color:rgb(0, 255, 170);
+}
+.button-2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.box1{
+    background-color: rgb(3, 108, 73);
+width: 300px;
+height: 300px;
+}
+.box2{
+    background-color: rgb(3, 108, 73);
+    width: 300px;
+    height: 300px; 
+}
+.box3{
+    background-color: rgb(3, 108, 73);
+    width: 300px;
+    height: 300px;  
+}
+
+.content{ 
+    display: flex;
+    gap: 30px;
+}
+
+img{
+    height: 300px;
+    width: 100%;
+}

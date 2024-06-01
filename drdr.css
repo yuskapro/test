@@ -1,0 +1,100 @@
+body{
+  background-color: blueviolet;
+  padding: 20px 120px;
+}
+.bala85{
+  color: white;
+}
+.bala2{
+  color: rgba(251, 248, 248, 0.501);
+}
+.nene{
+  display: flex;
+align-items: center;
+ justify-content: space-between;
+}
+.ana{
+  display: flex;
+  gap: 30px;
+  color: white;
+}
+.bala6{
+width: 120px;
+height: 35px;
+border-radius: 999px;
+background-color: red;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.h1{
+  color: white;
+  font-size: 37px;
+
+}
+.h2{
+  color: white;
+  font-size: 37px;
+}
+.learen{
+  color: white;
+  width: 120px;
+height: 35px;
+border-radius: 999px;
+background-color: red;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.baba{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+}
+.ana3{
+  background-color: white;
+padding: 30px;
+  border-radius:25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+.in{
+  color: white;
+  width: 220px;
+height: 35px;
+border-radius: 999px;
+background-color: blueviolet;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.log{
+  color: white;
+  width: 220px;
+height: 35px;
+border-radius: 999px;
+background-color: blue;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.input{
+  border-radius: 999px;
+}
+.ana2{
+  width: 50%;
+}
+.sui{
+border-radius: 999px;
+}
+.sui2{
+  border-radius: 999px;
+}
+.sign{
+  font-size: 26px;
+}
+
